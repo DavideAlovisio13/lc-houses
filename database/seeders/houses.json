@@ -1,0 +1,26 @@
+[
+    {
+        "address" : "Via Roma, 1",
+        "city" : "Roma",
+        "state" : "Italy",
+        "description" : "Stanza molto buona",
+        "price" : 1500.00,
+        "square_meters" : 100
+    },
+    {
+        "address" : "Via Firenze, 1",
+        "city" : "Firenze",
+        "state" : "Italy",
+        "description" : "Stanza molto buona",
+        "price" : 1500.00,
+        "square_meters" : 100
+    },
+    {
+        "address" : "Via Pisa, 1",
+        "city" : "Pisa",
+        "state" : "Italy",
+        "description" : "Stanza molto buona",
+        "price" : 1500.00,
+        "square_meters" : 100
+    }
+]
